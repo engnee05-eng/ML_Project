@@ -87,22 +87,7 @@ def upload_audio_or_video():
         if converted:
             messagebox.showinfo("Converted", f"File converted to:\n{converted}")
 
-def upload_image(img_label):
-    file_path = filedialog.askopenfilename(
-        title="Select Image File",
-        filetypes=[("Image Files", "*.jpg *.jpeg *.png *.bmp *.gif *.webp *.tiff")]
-    )
-    if file_path:
-        try:
-            img = Image.open(file_path)
-            img.thumbnail((150, 150))
-            img_tk = ImageTk.PhotoImage(img)
-            img_label.configure(image=img_tk)
-            img_label.image = img_tk
-        except Exception as e:
-            messagebox.showerror("Image Error", str(e))
-
-# Recorder functions (UNCHANGED)
+# Recorder functions 
 def audio_callback(indata, frames, time_info, status):
     global recording, paused, q
     if recording and not paused:
