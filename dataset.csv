@@ -1,50 +1,501 @@
-Hindi,Garhwali,Roman_Garhwali,English
-आप कैसे हैं?,तु कना छु?,tu kana chu?,How are you?
-मैं ठीक हूँ।,मी ठीक छु।,mi theek chu.,I am fine.
-तुम कहाँ जा रहे हो?,तु क्हैं जालु?,tu khain jalu?,Where are you going?
-मुझे पानी चाहिए।,मेथै पाणी चाणु छ।,methai paani chaanu cha.,I need water.
-यह क्या है?,यै क्सु छ?,yai ksu cha?,What is this?
-आज मौसम अच्छा है।,आज मौसुम नीकु छ।,aaj mausum neeku cha.,The weather is nice today.
-आपका नाम क्या है?,तेरु नाम क्सु छ?,teru naam ksu cha?,What is your name?
-मैं बाजार जा रहा हूँ।,मी बाजार जालु।,mi bazaar jalu.,I am going to the market.
-तुम कब आओगे?,तु कति आलों?,tu kati aalo?,When will you come?
-मैं खाना खा रहा हूँ।,मी खै रैल्यु।,mi khai railyu.,I am eating food.
-क्या तुम मेरी मदद कर सकते हो?,तु मेरी मदत करि सकलु?,tu meri madat kari saklu?,Can you help me?
-मुझे नहीं पता।,मेथै नि पता।,methai ni pata.,I don't know.
-कितने बजे हैं?,कति बाज गे?,kati baj ge?,What time is it?
-मैं अभी व्यस्त हूँ।,मी अभी ब्यास्त छु।,mi abhi byast chu.,I am busy right now.
-मैं घर पर हूँ।,मी घार मा छु।,mi ghar ma chu.,I am at home.
-तुम ठीक हो?,तु ठीक छु?,tu theek chu?,Are you okay?
-यह बहुत अच्छा है।,यै खूब नीकु छ।,yai khoob neeku cha.,This is very good.
-मुझे यह पसंद है।,मेथै यै पसंद छ।,methai yai pasand cha.,I like this.
-कृपया इंतज़ार करें।,जरा रुको।,jara ruko.,Please wait.
-मुझे देर हो रही है।,मेथै देर लग्यु।,methai der lagyu.,I am getting late.
-यहाँ आओ।,इजा आ।,yakh aa.,Come here.
-वहाँ जाओ।,उजा जा।,uja ja.,Go there.
-दरवाज़ा खोलो।,दरौजा खोल।,darauja khol.,Open the door.
-लाइट बंद करो।,लाइट बौंणो।,light bonno.,Turn off the light.
-क्या तुमने खाना खाया?,तु खै ल्यालो?,tu khai lyaalo?,Did you eat food?
-मैं बाद में आऊँगा।,मी बाद मैं आल्यु।,mi baad mai aalyu.,I will come later.
-हम कल मिलेंगे।,हम कल भेटुला।,ham kal bhetula.,We will meet tomorrow.
-मुझे यह किताब चाहिए।,मेथै यै किताब चाणु छ।,methai yai kitaab chaanu cha.,I need this book.
-तुम क्या कर रहे हो?,तु क्सु करि रैल्यु?,tu ksu kari railyu?,What are you doing?
-मैं पढ़ाई कर रहा हूँ।,मी पढ़ि रैल्यु।,mi padhi railyu.,I am studying.
-यह मेरा फोन है।,यै मीरो फोन छ।,yai meero phone cha.,This is my phone.
-क्या तुम सुन रहे हो?,तु सुणि रैल्यु?,tu suni railyu?,Are you listening?
-मुझे समझ नहीं आया।,मेथै समझ नि आयो।,methai samajh ni aayo.,I did not understand.
-धीरे बोलो।,धीरे बोल।,dheere bolo.,Speak slowly.
-कृपया दोहराओ।,फेरिक बोल।,pherik bolo.,Please repeat.
-यह कितने का है?,यै कति को छ?,yai kati ko cha?,How much is this?
-मैं खरीदना चाहता हूँ।,मी यै खरीदणा चाउ।,mi yai kharidna chau.,I want to buy this.
-तुम कहाँ रहते हो?,तु क्हैं रहालु?,tu khain rahaalu?,Where do you live?
-मैं भारत से हूँ。,मी भारत की छु।,mi Bharat ki chu.,I am from India.
-मुझे पानी लाना है।,मेथै पाणी ल्याणा छ।,methai paani lyaana cha.,I need to bring water.
-क्या तुम तैयार हो?,तु तयार छु?,tu tayaar chu?,Are you ready?
-चलो चलते हैं।,"चा, चलूँ।","cha, chalun.",Let's go.
-मुझे भूख लगी है।,मेथै भूख लागी गे।,methai bhukh lagi ge.,I am hungry.
-तुम्हें क्या चाहिए?,तेरै क्सु चाणु छ?,terai ksu chaanu cha?,What do you need?
-मैं तुम्हें बाद में कॉल करूँगा।,मी तैक बाद मैं फोन करल्यु।,mi taak baad mai phone karlyu.,I will call you later.
-मैं यहाँ नया हूँ।,मी इजा नौलो छु।,mi ija naulo chu.,I am new here.
-मुझे मदद की ज़रूरत है।,मेथै मदत की जरूरत छ।,methai madat ki jarurat cha.,I need help.
-सब ठीक है।,सब ठीक छ।,sab theek cha.,Everything is fine.
-धन्यवाद।,धन्यबाद।,dhanaybaad.,Thank you.
+Hindi,Garhwali,RomanGarhwali,English
+नमस्ते,नमस्कार / नमस्ते,nmskar / nmste,Hello / Namaste
+शुभ प्रभात,भोलि-भोलि,bholi-bholi,Good morning
+शुभ संध्या,सांझ-सांझ,sanjh-sanjh,Good evening
+आप कैसे हैं?,कन छ्याला तुम?,kn chhyala tum,How are you? (formal)
+तुम कैसे हो?,कन छे तू?,kn chhe tu,How are you? (informal)
+मैं अच्छा हूँ।,मी भलू छौं।,mi bhlu chhaun,I am fine.
+मैं ठीक हूँ।,मी ठीक छौं।,mi thik chhaun,I am okay.
+धन्यवाद,धन्यवाद,dhnywad,Thank you
+कोई बात नहीं,कछु नी।,kchhu ni,You're welcome / No problem
+क्या?,क्या?,kya,What?
+कौन?,कु?,ku,Who?
+कहाँ?,कख?,kkh,Where?
+कब?,कबरी?,kbri,When?
+कैसे?,कन?,kn,How?
+यह,यु,yu,This
+वह,वु,wu,That
+यहाँ,यख,ykh,Here
+वहाँ,वख,wkh,There
+हाँ,हाँ,han,Yes
+नहीं,न / नी,n / ni,No
+आओ,औवा,auwa,Come
+जाओ,जावा,jawa,Go
+बैठो,बैठा,baitha,Sit
+सुनो,सुण,su,Listen
+देखो,देखु,dekhu,Look
+खाओ,खावा,khawa,Eat
+पियो,पीवा,piwa,Drink
+करो,करा,kra,Do
+बोलो,बोला,bola,Speak
+सो जाओ,सुती जावा,suti jawa,Go to sleep
+उठो,उठा,utha,Get up
+मैं,मी,mi,I
+तुम,तू (कम आदर)/तुम (आदर),tu km adr/tum adr,You
+हम,आम / हम,am / hm,We
+वे,वे,we,They
+मेरा,मेरु,meru,My / Mine
+तुम्हारा,तेरु,teru,Your / Yours (informal)
+आपका,तुमरु,tumru,Your / Yours (formal)
+उसका,तेकु,teku,His / Her
+घर,घौर,ghaur,Home / House
+पानी,पाणी,pai,Water
+रोटी,रोटी,roti,Bread / Roti
+दाल,दाल,dal,Lentils / Daal
+चावल,भात,bhat,Rice
+माँ,ब्वै,bwai,Mother
+पिता,बुबा,buba,Father
+भाई,भैजी (बड़ा)/भुला (छोटा),bhaiji ba/bhula chhota,Brother
+बहन,दीदी (बड़ी)/भुली (छोटी),didi bi/bhuli chhoti,Sister
+बच्चा,नौनु (बेटा)/नौनी (बेटी),naunu beta/nauni beti,Child
+आदमी,मनखि,mnkhi,Man / Person
+औरत,कज्याण,kjya,Woman
+अच्छा,भलू,bhlu,Good
+बुरा,खराब,khrab,Bad
+बड़ा,बड़ु,bdu,Big / Large
+छोटा,छोटु,chhotu,Small
+गरम,गरमु,grmu,Hot
+ठंडा,ठण्डु,thdu,Cold
+सुंदर (निर्जीव),स्वाणू,swau,Beautiful (non-living)
+सुंदर (सजीव),स्वाणी,swai,Beautiful (living)
+काला,काळू,kau,Black
+सफेद,सफ्येड़,sphyed,White
+आज,आज,aj,Today
+कल (आने वाला),भोल,bhol,Tomorrow
+कल (बीता हुआ),भोल / ह्यौल,bhol / hyaul,Yesterday
+अभी,अब/अभै,ab/abhai,Now
+बाद में,बाद मा,bad ma,Later
+सुबह,सबेरे,sbere,Morning
+शाम,सांझ,sanjh,Evening
+दिन,दिन,din,Day
+रात,रात,rat,Night
+मुझे भूख लगी है।,मि तैं भोक लगी च।,mi tain bhok lgi ch,I am hungry.
+मुझे प्यास लगी है।,मि तैं तिरास लगी च।,mi tain tiras lgi ch,I am thirsty.
+मुझे जाना है।,मि तैं जाणु च।,mi tain jau ch,I have to go.
+मुझे पता नहीं।,मि तैं कुजाणी।,mi tain kujai,I don't know.
+मुझे पता है।,मि तैं जाणदू।,mi tain jadu,I know.
+मुझे यह पसंद है।,मि तैं यु पसंद च।,mi tain yu psnd ch,I like this.
+मुझे यह पसंद नहीं है।,मि तैं यु पसंद नी च।,mi tain yu psnd ni ch,I don't like this.
+क्या हाल है?,क्या हाल च?,kya hal ch,What's up?
+क्या चल रहा है?,क्या चलणू च?,kya chlu ch,What's going on?
+मुझे दो,मि तैं दे,mi tain de,Give me
+यह क्या है?,यु क्या च?,yu kya ch,What is this?
+यह किसका है?,यु कै कु च?,yu kai ku ch,Whose is this?
+जल्दी करो,जल्दी करा,jldi kra,Hurry up
+धीरे चलो,धीरे चला,dhire chla,Walk slowly
+आराम करो,आराम करा,aram kra,Rest
+खुश रहो,खुश रया,khush rya,Be happy
+सावधान रहो,सावधान रया,sawdhan rya,Be careful
+फिर मिलेंगे,फेरि मिलूंला,pheri milunla,See you again
+बाय,बाय,bay,Bye
+तुम क्या करते हो?,क्या करणू छा तुम?,kya kru chha tum,What do you do?
+मुझे नींद आ रही है।,मि तैं नींद औंदी च।,mi tain nind aundi ch,I am feeling sleepy.
+मैं आ रहा हूँ।,मी औणू छौं।,mi auu chhaun,I am coming.
+मैं जा रहा हूँ।,मी जानू छौं।,mi janu chhaun,I am going.
+यह बहुत है।,यु ब्योली च।,yu byoli ch,This is too much.
+थोड़ा और,थोड़ा और,thoda aur,A little more
+क्या हुआ?,क्या हैइ?,kya haii,What happened?
+सच में?,सच मा?,sch ma,Really?
+मुझे माफ करना,मि तैं माफ करा,mi tain maph kra,Forgive me / Excuse me
+मुझे मदद चाहिए।,मि तैं मदद चाही।,mi tain mdd chahi,I need help.
+सब ठीक है।,सब ठीक च।,sb thik ch,Everything is fine.
+खाना बनाओ,खाणू बणावा,khau bawa,Make food
+चाय बनाओ,चाय बणावा,chay bawa,Make tea
+कपड़ा धो लो,कपड़ा धोई ल्या,kpda dhoi lya,Wash clothes
+बाजार जाओ,बाजार जावा,bajar jawa,Go to the market
+काम करो,काम करा,kam kra,Do work
+पढ़ाओ,पढ़ावा,pdhawa,Teach
+लिखो,लिखा,likha,Write
+पढ़ो,पढ़ा,pdha,Read
+मुझे दो,मि तैं दे,mi tain de,Give me
+उसे बुलाओ,वेकुं बुलावा,wekun bulawa,Call him/her
+अंदर आओ,भीतर औवा,bhitr auwa,Come inside
+बाहर जाओ,भैर जावा,bhair jawa,Go outside
+जल्दी आओ,जल्दी औवा,jldi auwa,Come quickly
+धीरे से बोलो,धीरे से बोला,dhire se bola,Speak slowly
+क्यों?,किलै?,kilai,Why?
+कितना?,कदगा?,kdga,How much/many?
+कौन सा?,कुन सा?,kun sa,Which one?
+किस समय?,कै बेरा?,kai bera,At what time?
+किसके साथ?,कै का दगड़ी?,kai ka dgi,With whom?
+कहाँ से?,कख बटी?,kkh bti,From where?
+क्या हो रहा है?,क्या होलु च?,kya holu ch,What is happening?
+सब ठीक है।,सब ठीक च।,sb thik ch,Everything is fine.
+यह सही है।,यु सही च।,yu shi ch,This is right.
+यह गलत है।,यु गलत च।,yu glt ch,This is wrong.
+मुझे तुम्हारी बात समझ नहीं आई।,मि तैं तुमरी बात समझ नी ऐ।,mi tain tumri bat smjh ni ai,I didn't understand what you said.
+कृपया दोहराएँ।,कृपया फेरि बोला।,kripya pheri bola,Please repeat.
+क्या आप गढ़वाली बोलते हैं?,क्या तुम गढ़वळि बोलदा छा?,kya tum gdhwi bolda chha,Do you speak Garhwali?
+थोड़ा-थोड़ा।,थोड़ा-थोड़ा।,thoda-thoda,A little bit.
+मुझे गढ़वाली सीखनी है।,मि तैं गढ़वळि सिखणी च।,mi tain gdhwi sikhi ch,I want to learn Garhwali.
+मैं सीख रहा हूँ।,मी सिखणू छौं।,mi sikhu chhaun,I am learning.
+मैं भूल गया।,मी भुली गयुं।,mi bhuli gyun,I forgot.
+याद रखो।,याद रखा।,yad rkha,Remember.
+मुझे याद है।,मि तैं याद च।,mi tain yad ch,I remember.
+यह बहुत अच्छा है।,यु ब्योली भलू च।,yu byoli bhlu ch,This is very good.
+मुझे यह पसंद नहीं है।,मि तैं यु पसंद नी च।,mi tain yu psnd ni ch,I don't like this.
+मुझे क्या करना चाहिए?,मि तैं क्या करणो चाही?,mi tain kya kro chahi,What should I do?
+तुम कहाँ से हो?,तुम कख बटी छा?,tum kkh bti chha,Where are you from?
+मैं उत्तराखंड से हूँ।,मी उत्तराखंड बटी छौं।,mi uttrakhnd bti chhaun,I am from Uttarakhand.
+मेरा नाम [नाम] है।,म्यार नौं [नाम] च।,myar naun nam ch,My name is [name].
+तुम्हें मिलकर अच्छा लगा।,तुम तैं मिलिकैं भलू लग्यूं।,tum tain milikain bhlu lgyun,Nice to meet you.
+फिर मिलेंगे।,फेरि मिलूंला।,pheri milunla,See you again.
+आपका दिन शुभ हो।,तुमरु दिन भलू होलु।,tumru din bhlu holu,Have a good day.
+आपका समय अच्छा बीते।,तुमरु समय भलू बीतुलु।,tumru smy bhlu bitulu,Have a good time.
+यह कितने का है?,यु कदगा कु च?,yu kdga ku ch,How much is this?
+बहुत महंगा है।,ब्योली गर्रु च।,byoli grru ch,It is very expensive.
+थोड़ा सस्ता करो।,थोड़ा सस्ता करा।,thoda ssta kra,Make it a little cheaper.
+इसे ले लो।,ये तैं ल्या।,ye tain lya,Take this.
+मुझे यह नहीं चाहिए।,मि तैं यु नी चाही।,mi tain yu ni chahi,I don't want this.
+मुझे यह चाहिए।,मि तैं यु चाही।,mi tain yu chahi,I want this.
+माफ करना।,माफ करा।,maph kra,Sorry / Excuse me.
+मुझे जाना होगा।,मि तैं जाणु होलु।,mi tain jau holu,I have to go.
+मैं अभी आता हूँ।,मी अबै औंदुं छौं।,mi abai aundun chhaun,I am coming right now.
+मैं इंतज़ार कर रहा हूँ।,मी बाट देखणू छौं।,mi bat dekhu chhaun,I am waiting.
+जल्दी आना।,जल्दी औवा।,jldi auwa,Come soon.
+कहाँ जा रहे हो?,कख जानू छा?,kkh janu chha,Where are you going?
+घर जा रहा हूँ।,घौर जानू छौं।,ghaur janu chhaun,I am going home.
+क्या काम है?,क्या काम च?,kya kam ch,What is the matter?
+कोई काम नहीं।,कुई काम नी च।,kui kam ni ch,No work.
+मुझे काम है।,मि तैं काम च।,mi tain kam ch,I have work.
+खाना खा लिया?,खाणू खायी ल्या?,khau khayi lya,Have you eaten?
+"हाँ, खा लिया।","हाँ, खायी ल्युं।",han khayi lyun,"Yes, I have eaten."
+"नहीं, अभी नहीं।","न, अबै नी।",n abai ni,"No, not yet."
+पानी पियो।,पाणी पीवा।,pai piwa,Drink water.
+बैठो यहाँ।,यख बैठा।,ykh baitha,Sit here.
+क्या कर रहे हो?,क्या करणू छा?,kya kru chha,What are you doing?
+कुछ नहीं।,कछु नी।,kchhu ni,Nothing.
+यह कब हुआ?,यु कब हैइ?,yu kb haii,When did this happen?
+अभी हुआ।,अबै हैइ।,abai haii,It just happened.
+पहले हुआ था।,पैली हैइ छै।,paili haii chhai,It happened before.
+मुझे देर हो रही है।,मि तैं देर होलै।,mi tain der holai,I am getting late.
+तुम जल्दी में हो?,तुम जल्दी मा छा?,tum jldi ma chha,Are you in a hurry?
+"हाँ, जल्दी में हूँ।","हाँ, जल्दी मा छौं।",han jldi ma chhaun,"Yes, I am in a hurry."
+आज मौसम कैसा है?,आज सर्ग कन च?,aj srg kn ch,How is the weather today?
+मौसम अच्छा है।,सर्ग भलू च।,srg bhlu ch,The weather is good.
+ठंड है।,ठण्ड च।,thd ch,It is cold.
+गर्मी है।,गरमी च।,grmi ch,It is hot.
+बारिश हो रही है।,पाणी बरसणू च।,pai brsu ch,It is raining.
+धूप खिली है।,घाम निकली च।,gham nikli ch,It is sunny.
+बादल हैं।,बादल छन।,badl chhn,It is cloudy.
+मुझे ठंड लग रही है।,मि तैं ठण्ड लगी च।,mi tain thd lgi ch,I am feeling cold.
+मुझे गर्मी लग रही है।,मि तैं गरमी लगी च।,mi tain grmi lgi ch,I am feeling hot.
+मेरे घर आओ।,म्यार घौर औवा।,myar ghaur auwa,Come to my house.
+मैं कल आऊँगा।,मी भोल औंदुं।,mi bhol aundun,I will come tomorrow.
+मैं नहीं आ सकता।,मी नी औई सकदू।,mi ni aui skdu,I cannot come.
+मुझे मदद करो।,मि तैं मदद करा।,mi tain mdd kra,Help me.
+मुझे अकेला छोड़ दो।,मि तैं एकल छोड़ द्या।,mi tain ekl chhod dya,Leave me alone.
+यह मुश्किल है।,यु मुश्किल च।,yu mushkil ch,This is difficult.
+यह आसान है।,यु आसान च।,yu asan ch,This is easy.
+तुम क्या सोचते हो?,क्या सोचणू छा तुम?,kya sochu chha tum,What do you think?
+मुझे लगता है...,मि तैं लगदुं च कि...,mi tain lgdun ch ki...,I think that...
+क्या तुम तैयार हो?,क्या तुम तैयार छा?,kya tum taiyar chha,Are you ready?
+"हाँ, मैं तैयार हूँ।","हाँ, मी तैयार छौं।",han mi taiyar chhaun,"Yes, I am ready."
+"नहीं, मैं तैयार नहीं हूँ।","न, मी तैयार नी छौं।",n mi taiyar ni chhaun,"No, I am not ready."
+खुश रहो।,खुश रया।,khush rya,Be happy.
+दुखी मत हो।,दुखि नी होलु।,dukhi ni holu,Don't be sad.
+मेरे साथ आओ।,म्यार दगड़ी औवा।,myar dgi auwa,Come with me.
+मुझे पता है।,मि तैं जाणदू।,mi tain jadu,I know.
+मुझे नहीं पता।,मि तैं कुजाणी।,mi tain kujai,I don't know.
+तुम कहाँ जा रहे हो?,तुम कख जानू छा?,tum kkh janu chha,Where are you going?
+यह मेरा है।,यु मेरु च।,yu meru ch,This is mine.
+मैं तुम्हें प्यार करता हूँ।,मी त्वैं प्यार करदू छौं।,mi twain pyar krdu chhaun,I love you.
+मुझे तुमसे बहुत प्यार है।,मि तैं त्वे से ब्योली प्यार च।,mi tain twe se byoli pyar ch,I love you very much.
+तुम बहुत अच्छे हो।,तुम ब्योली भलू छा।,tum byoli bhlu chha,You are very good.
+तुम मेरे दोस्त हो।,तुम म्यार दगड़्या छा।,tum myar dgya chha,You are my friend.
+तुम मेरे भाई हो।,तुम म्यार भैजी/भुला छा।,tum myar bhaiji/bhula chha,You are my brother.
+तुम मेरी बहन हो।,तुम म्यार दीदी/भुली छा।,tum myar didi/bhuli chha,You are my sister.
+मैं खुश हूँ।,मी खुश छौं।,mi khush chhaun,I am happy.
+मैं दुखी हूँ।,मी दुखि छौं।,mi dukhi chhaun,I am sad.
+मुझे गुस्सा आ रहा है।,मि तैं गुस्सै औणू च।,mi tain gussai auu ch,I am getting angry.
+शांत रहो।,शांत रया।,shant rya,Be quiet / Calm down.
+क्या तुम मजाक कर रहे हो?,क्या तुम मजाक करणू छा?,kya tum mjak kru chha,Are you joking?
+"नहीं, मैं गंभीर हूँ।","न, मी गंभीर छौं।",n mi gnbhir chhaun,"No, I am serious."
+क्या तुम थके हो?,क्या तुम थक्या छा?,kya tum thkya chha,Are you tired?
+"हाँ, मैं थका हूँ।","हाँ, मी थकी गयुं।",han mi thki gyun,"Yes, I am tired."
+मुझे नींद आ रही है।,मि तैं नींद औंदी च।,mi tain nind aundi ch,I am feeling sleepy.
+मुझे भूख लगी है।,मि तैं भोक लगी च।,mi tain bhok lgi ch,I am hungry.
+मुझे प्यास लगी है।,मि तैं तिरास लगी च।,mi tain tiras lgi ch,I am thirsty.
+मुझे जाना है।,मि तैं जाणु च।,mi tain jau ch,I have to go.
+मैं वापस आऊँगा।,मी वापस औंदुं।,mi waps aundun,I will come back.
+मैं इंतज़ार करूँगा।,मी बाट देखुलुं।,mi bat dekhulun,I will wait.
+क्या तुम समझ गए?,क्या तुम समझि ग्या?,kya tum smjhi gya,Did you understand?
+"हाँ, मैं समझ गया।","हाँ, मी समझि गयुं।",han mi smjhi gyun,"Yes, I understood."
+यह बहुत स्वादिष्ट है।,यु ब्योली स्वादिष्ट च।,yu byoli swadisht ch,This is very tasty.
+यह क्या है?,यु क्या च?,yu kya ch,What is this?
+यह मेरा फोन है।,यु म्यार फोन च।,yu myar phon ch,This is my phone.
+यह किसका है?,यु कै कु च?,yu kai ku ch,Whose is this?
+यह मेरा सामान है।,यु म्यार सामान च।,yu myar saman ch,This is my luggage.
+कृपया यहाँ आओ।,कृपया यख औवा।,kripya ykh auwa,Please come here.
+कृपया वहाँ जाओ।,कृपया वख जावा।,kripya wkh jawa,Please go there.
+मुझे दिखाओ।,मि तैं देखा।,mi tain dekha,Show me.
+मुझे बताओ।,मि तैं बतावा।,mi tain btawa,Tell me.
+क्या तुम सुन रहे हो?,क्या तुम सुणणू छा?,kya tum suu chha,Are you listening?
+"हाँ, मैं सुन रहा हूँ।","हाँ, मी सुणणू छौं।",han mi suu chhaun,"Yes, I am listening."
+क्या तुम देख रहे हो?,क्या तुम देखणू छा?,kya tum dekhu chha,Are you looking?
+"हाँ, मैं देख रहा हूँ।","हाँ, मी देखणू छौं।",han mi dekhu chhaun,"Yes, I am looking."
+मुझे लगता है...,मि तैं लगदुं च कि...,mi tain lgdun ch ki...,I think that...
+यह सही नहीं है।,यु सही नी च।,yu shi ni ch,This is not right.
+यह सच है।,यु सच च।,yu sch ch,This is true.
+यह झूठ है।,यु झूठ च।,yu jhuth ch,This is false / a lie.
+तुम्हें क्या लगता है?,तुम तैं क्या लगदुं च?,tum tain kya lgdun ch,What do you think?
+मेरे हिसाब से...,म्यार हिसाब से...,myar hisab se...,According to me...
+तुम्हारी क्या राय है?,तुमरी क्या राय च?,tumri kya ray ch,What is your opinion?
+यह मत करो।,यु नी करा।,yu ni kra,Don't do this.
+ऐसा क्यों?,इन किलै?,in kilai,Why so?
+क्योंकि...,किलैकि...,kilaiki...,Because...
+मैं भूल गया था।,मी भुली गयुं छौं।,mi bhuli gyun chhaun,I had forgotten.
+इसे याद रखना।,ये तैं याद रखा।,ye tain yad rkha,Remember this.
+मुझे यह खरीदना है।,मि तैं यु खरीदणू च।,mi tain yu khridu ch,I have to buy this.
+मुझे यह बेचना है।,मि तैं यु बेचणू च।,mi tain yu bechu ch,I have to sell this.
+पैसे कितने हुए?,पैसा कदगा हुए?,paisa kdga hue,How much is the money?
+यहाँ आओ।,यख औवा।,ykh auwa,Come here.
+वहाँ जाओ।,वख जावा।,wkh jawa,Go there.
+ऊपर जाओ।,ऊपर जावा।,upr jawa,Go up.
+नीचे आओ।,निळी औवा।,nii auwa,Come down.
+सीधे जाओ।,सीधा जावा।,sidha jawa,Go straight.
+दाएं मुड़ो।,दांईं मुड़ा।,danin muda,Turn right.
+बाएं मुड़ो।,बांईं मुड़ा।,banin muda,Turn left.
+रास्ता दिखाओ।,बाट देखावा।,bat dekhawa,Show the way.
+रास्ता कहाँ है?,बाट कख च?,bat kkh ch,Where is the way?
+पास में है।,न्यार च।,nyar ch,It is near.
+दूर है।,दूर च।,dur ch,It is far.
+क्या तुम शादीशुदा हो?,क्या तुम ब्याया छा?,kya tum byaya chha,Are you married?
+"हाँ, मैं शादीशुदा हूँ।","हाँ, मी ब्याया छौं।",han mi byaya chhaun,"Yes, I am married."
+"नहीं, मैं नहीं हूँ।","न, मी नी छौं।",n mi ni chhaun,"No, I am not."
+आपके कितने बच्चे हैं?,तुमरा कदगा बच्चा छन?,tumra kdga bchcha chhn,How many children do you have?
+मेरे [संख्या] बच्चे हैं।,म्यारा [संख्या] बच्चा छन।,myara snkhya bchcha chhn,I have [number] children.
+मेरा एक बेटा है।,म्यार एक नौनु च।,myar ek naunu ch,I have a son.
+मेरी एक बेटी है।,म्यार एक नौनी च।,myar ek nauni ch,I have a daughter.
+तुम कहाँ काम करते हो?,तुम कख काम करणू छा?,tum kkh kam kru chha,Where do you work?
+मैं [जगह] में काम करता हूँ।,मी [जगह] मा काम करदू छौं।,mi jgh ma kam krdu chhaun,I work in [place].
+तुम क्या खाते हो?,क्या खाणा छा तुम?,kya khaa chha tum,What do you eat?
+मैं दाल-भात खाता हूँ।,मी दाल-भात खादू छौं।,mi dal-bhat khadu chhaun,I eat dal-bhaat.
+यह बहुत मीठा है।,यु ब्योली मीठु च।,yu byoli mithu ch,This is very sweet.
+यह बहुत तीखा है।,यु ब्योली तीखु च।,yu byoli tikhu ch,This is very spicy.
+मुझे नमक चाहिए।,मि तैं लूण चाही।,mi tain lu chahi,I need salt.
+मुझे मिर्च चाहिए।,मि तैं मिर्च चाही।,mi tain mirch chahi,I need chili.
+मुझे शक्कर चाहिए।,मि तैं बूरा चाही।,mi tain bura chahi,I need sugar.
+मुझे भूख नहीं है।,मि तैं भोक नी च।,mi tain bhok ni ch,I am not hungry.
+मुझे प्यास नहीं है।,मि तैं तिरास नी च।,mi tain tiras ni ch,I am not thirsty.
+क्या तुम खाना बना सकते हो?,क्या तुम खाणू बणै सकदा?,kya tum khau bai skda,Can you cook?
+"हाँ, मैं बना सकता हूँ।","हाँ, मी बणै सकदू छौं।",han mi bai skdu chhaun,"Yes, I can."
+"नहीं, मैं नहीं बना सकता।","न, मी नी बणै सकदू।",n mi ni bai skdu,"No, I cannot."
+मुझे देर हो रही है।,मि तैं देर होलै।,mi tain der holai,I am getting late.
+क्या तुम समय पर हो?,क्या तुम समय पर छा?,kya tum smy pr chha,Are you on time?
+यह मेरा दोस्त है।,यु म्यार दगड़्या च।,yu myar dgya ch,This is my friend.
+यह मेरी सहेली है।,यु म्यार दगड़्याणी च।,yu myar dgyai ch,This is my female friend.
+तुम्हारे कितने दोस्त हैं?,तुमरा कदगा दगड़्या छन?,tumra kdga dgya chhn,How many friends do you have?
+मेरे बहुत दोस्त हैं।,म्यारा ब्योली दगड़्या छन।,myara byoli dgya chhn,I have many friends.
+मेरे पास कोई दोस्त नहीं है।,म्यार पास कुई दगड़्या नी च।,myar pas kui dgya ni ch,I have no friends.
+मुझे नींद नहीं आ रही है।,मि तैं नींद नी औंदी च।,mi tain nind ni aundi ch,I am not feeling sleepy.
+क्या तुम सो गए?,क्या तुम सुती ग्या?,kya tum suti gya,Did you sleep?
+"हाँ, मैं सो गया।","हाँ, मी सुती गयुं।",han mi suti gyun,"Yes, I slept."
+मैं सो नहीं पाया।,मी सुती नी पैयुं।,mi suti ni paiyun,I couldn't sleep.
+यह कब तक चलेगा?,यु कब तलक चललु?,yu kb tlk chllu,How long will this last?
+यह बहुत मुश्किल है।,यु ब्योली मुश्किल च।,yu byoli mushkil ch,This is very difficult.
+क्या तुम मदद करोगे?,क्या तुम मदद कराला?,kya tum mdd krala,Will you help?
+"हाँ, मैं मदद करूँगा।","हाँ, मी मदद करुलुं।",han mi mdd krulun,"Yes, I will help."
+धन्यवाद।,धन्यवाद।,dhnywad,Thank you.
+आपका स्वागत है।,तुमरु स्वागत च।,tumru swagt ch,You are welcome.
+यह मेरा सम्मान है।,यु म्यार सम्मान च।,yu myar smman ch,This is my honor.
+सुबह हो गई है।,सुबेर व्हेगी च।,suber vhegee ch।,It's morning.
+शाम हो गई है।,सांझ व्हेगी च।,saanjh vhegee ch।,It's evening.
+रात हो गई है।,रात व्हेगी च।,raat vhegee ch।,It's night.
+मुझे सुबह उठना है।,मि तैं सबेरे उठणु च।,mi tain sbere uthnu ch।,I have to wake up in the morning.
+मुझे रात में सोना है।,मि तैं रात मा सुतणु च।,mi tain raat maa sutnu ch।,I have to sleep at night.
+यह मेरा काम है।,यु म्यार काम च।,yu myaar kaam ch।,This is my work.
+यह तुम्हारा काम है।,यु तेरु काम च।,yu teru kaam ch।,This is your work.
+यह उनका काम है।,यु वेका काम च।,yu vekaa kaam ch।,This is his/her work.
+मुझे बाजार जाना है।,मि तैं बाजार जाणु च।,mi tain baajaar jaanu ch।,I have to go to the market.
+मुझे स्कूल जाना है।,मि तैं स्कूल जाणु च।,mi tain skool jaanu ch।,I have to go to school.
+मुझे ऑफिस जाना है।,मि तैं ऑफिस जाणु च।,mi tain ऑphis jaanu ch।,I have to go to the office.
+क्या तुम खाली हो?,क्या तुम खाली छा?,kyaa tum khaalee chhaa?,Are you free?
+"हाँ, मैं खाली हूँ।","हाँ, मी खाली छौं।","haan, mee khaalee chhaun।","Yes, I am free."
+"नहीं, मैं व्यस्त हूँ।","न, मी व्यस्त छौं।","n, mee vyst chhaun।","No, I am busy."
+मुझे यह समझना है।,मि तैं यु समझणु च।,mi tain yu smjhnu ch।,I have to understand this.
+क्या तुम समझा सकते हो?,क्या तुम समझै सकदा?,kyaa tum smjhai skdaa?,Can you explain?
+"हाँ, मैं समझा सकता हूँ।","हाँ, मी समझै सकदू छौं।","haan, mee smjhai skdoo chhaun।","Yes, I can explain."
+मुझे यह नहीं पता था।,मि तैं यु नी पता छै।,mi tain yu nee ptaa chhai।,I didn't know this.
+मुझे अब पता चला।,मि तैं अब पता चल्युं।,mi tain ab ptaa chlyun।,I just found out.
+क्या तुम गुस्सा हो?,क्या तुम गुस्सै छा?,kyaa tum gussai chhaa?,Are you angry?
+"हाँ, मैं गुस्सा हूँ।","हाँ, मी गुस्सै छौं।","haan, mee gussai chhaun।","Yes, I am angry."
+शांत हो जाओ।,शांत है जावा।,shaant hai jaavaa।,Calm down.
+यह मेरी गलती है।,यु मेरी गलती च।,yu meree gltee ch।,This is my mistake.
+यह तुम्हारी गलती है।,यु तेरी गलती च।,yu teree gltee ch।,This is your mistake.
+मुझे माफ कर दो।,मि तैं माफ करि द्या।,mi tain maaph kri dyaa।,Forgive me.
+कोई बात नहीं।,कछु नी।,kchhu nee।,No problem.
+क्या तुम बीमार हो?,क्या तुम बीमार छा?,kyaa tum beemaar chhaa?,Are you sick?
+"हाँ, मैं बीमार हूँ।","हाँ, मी बीमार छौं।","haan, mee beemaar chhaun।","Yes, I am sick."
+मुझे बुखार है।,मि तैं बुखार च।,mi tain bukhaar ch।,I have a fever.
+मुझे खांसी है।,मि तैं खाँसण च।,mi tain khaansn ch।,I have a cough.
+मुझे जुकाम है।,मि तैं जुकाम च।,mi tain jukaam ch।,I have a cold.
+डॉक्टर के पास जाओ।,डॉक्टर का पास जावा।,dॉktr kaa paas jaavaa।,Go to the doctor.
+दवाई लो।,दवाई ल्या।,dvaaee lyaa।,Take medicine.
+आराम करो।,आराम करा।,aaraam kraa।,Rest.
+क्या तुम ठीक हो?,क्या तुम ठीक छा?,kyaa tum theek chhaa?,Are you okay?
+"हाँ, मैं ठीक हूँ।","हाँ, मी ठीक छौं।","haan, mee theek chhaun।","Yes, I am okay."
+यह कब तक ठीक हो जाएगा?,यु कब तलक ठीक होलु?,yu kb tlk theek holu?,When will this be okay?
+जल्द ही ठीक हो जाएगा।,जल्द ही ठीक होलु।,jld hee theek holu।,It will be okay soon.
+मुझे मदद चाहिए।,मि तैं मदद चाही।,mi tain mdd chaahee।,I need help.
+मैं तुम्हारी मदद करूँगा।,मी तुमरी मदद करुलुं।,mee tumree mdd krulun।,I will help you.
+मुझे पानी चाहिए।,मि तैं पाणी चाही।,mi tain paanee chaahee।,I need water.
+मुझे खाना चाहिए।,मि तैं खाणू चाही।,mi tain khaanoo chaahee।,I need food.
+मुझे नींद आ रही है।,मि तैं नींद औंदी च।,mi tain neend aundee ch।,I am feeling sleepy.
+क्या तुम सोओगे?,क्या तुम सुतौला?,kyaa tum sutaulaa?,Will you sleep?
+"हाँ, मैं सोऊँगा।","हाँ, मी सुतुलुं।","haan, mee sutulun।","Yes, I will sleep."
+मैं नहीं सोऊँगा।,मी नी सुतुलुं।,mee nee sutulun।,I will not sleep.
+मुझे जाना है।,मि तैं जाणु च।,mi tain jaanu ch।,I have to go.
+कहाँ जा रहे हो?,कख जानू छा?,kkh jaanoo chhaa?,Where are you going?
+मैं घर जा रहा हूँ।,मी घौर जानू छौं।,mee ghaur jaanoo chhaun।,I am going home.
+मैं बाजार जा रहा हूँ।,मी बाजार जानू छौं।,mee baajaar jaanoo chhaun।,I am going to the market.
+मैं अपने दोस्त के पास जा रहा हूँ।,मी अपणा दगड्या का पास जानू छौं।,mee apnaa dgdyaa kaa paas jaanoo chhaun।,I am going to my friend's place.
+तुम कब आओगे?,तुम कब औंदा?,tum kb aundaa?,When will you come?
+मैं थोड़ी देर में आऊँगा।,मी थोड़ी देर मा औंदुं।,mee thodee der maa aundun।,I will come in a while.
+मैं जल्दी आऊँगा।,मी जल्दी औंदुं।,mee jldee aundun।,I will come soon.
+मैं आज नहीं आऊँगा।,मी आज नी औंदुं।,mee aaj nee aundun।,I will not come today.
+मैं कल आऊँगा।,मी भोल औंदुं।,mee bhol aundun।,I will come tomorrow.
+तुम क्या चाहते हो?,तुम क्या चाणा छा?,tum kyaa chaanaa chhaa?,What do you want?
+मुझे यह चाहिए।,मि तैं यु चाही।,mi tain yu chaahee।,I want this.
+मुझे वह चाहिए।,मि तैं वु चाही।,mi tain vu chaahee।,I want that.
+मुझे कुछ नहीं चाहिए।,मि तैं कछु नी चाही।,mi tain kchhu nee chaahee।,I want nothing.
+तुम क्या कर रहे हो?,तुम क्या करणू छा?,tum kyaa krnoo chhaa?,What are you doing?
+मैं पढ़ रहा हूँ।,मी पढ़णू छौं।,mee pdhnoo chhaun।,I am studying.
+मैं खेल रहा हूँ।,मी खेलणू छौं।,mee khelnoo chhaun।,I am playing.
+मैं खाना बना रहा हूँ।,मी खाणू बणाणू छौं।,mee khaanoo bnaanoo chhaun।,I am cooking.
+मैं टीवी देख रहा हूँ।,मी टीवी देखणू छौं।,mee teevee dekhnoo chhaun।,I am watching TV.
+मैं काम कर रहा हूँ।,मी काम करणू छौं।,mee kaam krnoo chhaun।,I am working.
+तुम कहाँ जा रहे हो?,तुम कख जानू छा?,tum kkh jaanoo chhaa?,Where are you going?
+मैं बाजार जा रहा हूँ।,मी बाजार जानू छौं।,mee baajaar jaanoo chhaun।,I am going to the market.
+मैं गाँव जा रहा हूँ।,मी गाँव जानू छौं।,mee gaanv jaanoo chhaun।,I am going to the village.
+मैं शहर जा रहा हूँ।,मी शहर जानू छौं।,mee shhr jaanoo chhaun।,I am going to the city.
+तुम कहाँ से आए?,तुम कख बटी ऐ?,tum kkh btee ai?,Where did you come from?
+मैं घर से आया हूँ।,मी घौर बटी ऐ छौं।,mee ghaur btee ai chhaun।,I came from home.
+मैं काम से आया हूँ।,मी काम बटी ऐ छौं।,mee kaam btee ai chhaun।,I came from work.
+यह बहुत अच्छा है।,यु ब्योली भलू च।,yu byolee bhloo ch।,This is very good.
+यह बहुत बुरा है।,यु ब्योली खराब च।,yu byolee khraab ch।,This is very bad.
+यह बहुत सुंदर है।,यु ब्योली स्वाणू च।,yu byolee svaanoo ch।,This is very beautiful.
+यह बहुत बड़ा है।,यु ब्योली बड़ु च।,yu byolee bdu ch।,This is very big.
+यह बहुत छोटा है।,यु ब्योली छोटु च।,yu byolee chhotu ch।,This is very small.
+क्या तुम खुश हो?,क्या तुम खुश छा?,kyaa tum khush chhaa?,Are you happy?
+"हाँ, मैं बहुत खुश हूँ।","हाँ, मी ब्योली खुश छौं।","haan, mee byolee khush chhaun।","Yes, I am very happy."
+"नहीं, मैं खुश नहीं हूँ।","न, मी खुश नी छौं।","n, mee khush nee chhaun।","No, I am not happy."
+तुम क्या करोगे?,तुम क्या कराला?,tum kyaa kraalaa?,What will you do?
+मैं यह करूँगा।,मी यु करुलुं।,mee yu krulun।,I will do this.
+मैं वह करूँगा।,मी वु करुलुं।,mee vu krulun।,I will do that.
+मैं कुछ नहीं करूँगा।,मी कछु नी करुलुं।,mee kchhu nee krulun।,I will do nothing.
+तुम कहाँ जाओगे?,तुम कख जावा?,tum kkh jaavaa?,Where will you go?
+मैं घर जाऊँगा।,मी घौर जांदुं।,mee ghaur jaandun।,I will go home.
+मैं बाजार जाऊँगा।,मी बाजार जांदुं।,mee baajaar jaandun।,I will go to the market.
+मैं सोऊँगा।,मी सुतुलुं।,mee sutulun।,I will sleep.
+मैं खाऊँगा।,मी खालुं।,mee khaalun।,I will eat.
+मैं पीऊँगा।,मी पीलूं।,mee peeloon।,I will drink.
+मैं देखूँगा।,मी देखुलुं।,mee dekhulun।,I will see.
+मैं सुनूँगा।,मी सुणुलुं।,mee sunulun।,I will listen.
+यह कौन है?,यु कु च?,yu ku ch?,Who is this?
+यह मेरा भाई है।,यु म्यार भैजी/भुला च।,yu myaar bhaijee/bhulaa ch।,This is my brother.
+यह मेरी बहन है।,यु म्यार दीदी/भुली च।,yu myaar deedee/bhulee ch।,This is my sister.
+यह मेरे पिता हैं।,यु म्यार बुबा छन।,yu myaar bubaa chhn।,This is my father.
+यह मेरी माता हैं।,यु म्यार ब्वै छन।,yu myaar bvai chhn।,This is my mother.
+तुम कहाँ रहते हो?,तुम कख रेंदा छा?,tum kkh rendaa chhaa?,Where do you live?
+मैं [जगह] में रहता हूँ।,मी [जगह] मा रेंदुं छौं।,mee [jgh] maa rendun chhaun।,I live in [place].
+तुम्हारा गाँव कहाँ है?,तेरु गाँव कख च?,Teru gaon kakh ch?,Where is your village?
+मेरा गाँव [नाम] है।,म्यार गाँव [नाम] च।,Myar gaon [naam] ch.,My village is [name].
+यह कितनी दूर है?,यु कदगा दूर च?,Yu kadga door ch?,How far is it?
+यह [समय] दूर है।,यु [समय] दूर च।,Yu [samay] door ch.,It is [time] away.
+मैं तुम्हें समझाऊँगा।,मी त्वैं समझैलुं।,Mi tvain samjhaailun.,I will explain to you.
+कृपया मुझे याद दिलाना।,कृपया मि तैं याद दिलावा।,Kripya mi tain yaad dilawa.,Please remind me.
+मैं इसे लिख लूँगा।,मी ये तैं लिखी ल्युलुं।,Mi ye tain likhi lyulun.,I will write this down.
+दरवाजा खोलो।,दरवाजा खोला।,Darwaja khola.,Open the door.
+दरवाजा बंद करो।,दरवाजा बंद करा।,Darwaja band kara.,Close the door.
+खिड़की खोलो।,खिड़की खोला।,Khidki khola.,Open the window.
+खिड़की बंद करो।,खिड़की बंद करा।,Khidki band kara.,Close the window.
+पंखा चलाओ।,पंखा चलावा।,Pankha chalawa.,Turn on the fan.
+पंखा बंद करो।,पंखा बंद करा।,Pankha band kara.,Turn off the fan.
+बिजली चलाओ।,बिजली जलावा।,Bijli jalawa.,Turn on the light.
+बिजली बंद करो।,बिजली बुझावा।,Bijli bujhawa.,Turn off the light.
+मुझे बैठना है।,मि तैं बैठणु च।,Mi tain baithanu ch.,I want to sit.
+मुझे खड़ा होना है।,मि तैं खड़ा होणु च।,Mi tain khada honu ch.,I want to stand.
+मुझे चलना है।,मि तैं चलणु च।,Mi tain chalanun ch.,I want to walk.
+मुझे दौड़ना है।,मि तैं दौड़णु च।,Mi tain daudanu ch.,I want to run.
+मुझे सोना है।,मि तैं सुतणु च।,Mi tain sutanun ch.,I want to sleep.
+क्या तुम सच बोल रहे हो?,क्या तुम सच बोलणू छा?,Kya tum sach bolanun chaa?,Are you telling the truth?
+"हाँ, मैं सच बोल रहा हूँ।","हाँ, मी सच बोलणू छौं।","Haan, mi sach bolanun chaun.","Yes, I am telling the truth."
+"नहीं, मैं झूठ बोल रहा हूँ।","न, मी झूठ बोलणू छौं।","Na, mi jhooth bolanun chaun.","No, I am lying."
+यह एक अच्छा विचार है।,यु एक भलू विचार च।,Yu ek bhlu vichar ch.,This is a good idea.
+यह एक बुरा विचार है।,यु एक खराब विचार च।,Yu ek kharab vichar ch.,This is a bad idea.
+मुझे इसकी जरूरत है।,मि तैं येकी जरूरत च।,Mi tain yeki jarurat ch.,I need this.
+मुझे इसकी जरूरत नहीं है।,मि तैं येकी जरूरत नी च।,Mi tain yeki jarurat ni ch.,I don't need this.
+मैं थक गया हूँ।,मी थकी गयुं छौं।,Mi thaki gayun chaun.,I am tired.
+मैं खुश हूँ।,मी खुश छौं।,Mi khush chaun.,I am happy.
+मैं दुखी हूँ।,मी दुखि छौं।,Mi dukhi chaun.,I am sad.
+मैं गुस्सा हूँ।,मी गुस्सै छौं।,Mi gussai chaun.,I am angry.
+मैं डरा हुआ हूँ।,मी डर्यूं छौं।,Mi dar yun chaun.,I am scared.
+मैं हैरान हूँ।,मी हैरान छौं।,Mi hairan chaun.,I am surprised.
+मुझे यह पता था।,मि तैं यु पता छै।,Mi tain yu pata chai.,I knew this.
+मुझे यह नहीं पता था।,मि तैं यु नी पता छै।,Mi tain yu ni pata chai.,I didn't know this.
+मुझे कुछ कहना है।,मि तैं कछु बोलणु च।,Mi tain kachu bolanun ch.,I have something to say.
+तुम कहाँ जा रहे हो?,तुम कख जानू छा?,Tum kakh janu chaa?,Where are you going?
+मैं बाजार जा रहा हूँ।,मी बाजार जानू छौं।,Mi bazaar janu chaun.,I am going to the market.
+मैं मंदिर जा रहा हूँ।,मी मंदिर जानू छौं।,Mi mandir janu chaun.,I am going to the temple.
+मैं अस्पताल जा रहा हूँ।,मी अस्पताल जानू छौं।,Mi aspataal janu chaun.,I am going to the hospital.
+मैं बैंक जा रहा हूँ।,मी बैंक जानू छौं।,Mi bank janu chaun.,I am going to the bank.
+मुझे देर हो रही है।,मि तैं देर होलै।,Mi tain der holai.,I am getting late.
+मुझे जल्दी करनी है।,मि तैं जल्दी करणी च।,Mi tain jaldi karni ch.,I need to hurry.
+क्या तुम आ सकते हो?,क्या तुम औई सकदा?,Kya tum ooi sakda?,Can you come?
+"हाँ, मैं आ सकता हूँ।","हाँ, मी औई सकदू छौं।","Haan, mi ooi sakdu chaun.","Yes, I can come."
+"नहीं, मैं नहीं आ सकता।","न, मी नी औई सकदू।","Na, mi ni ooi sakdu.","No, I cannot come."
+मुझे जाना होगा।,मि तैं जाणु होलु।,Mi tain janu holu.,I have to go.
+मैं बाद में मिलूँगा।,मी बाद मा मिलुलुं।,Mi baad ma milulun.,I will meet later.
+क्या तुम खाली हो?,क्या तुम खाली छा?,Kya tum khaali chaa?,Are you free?
+"हाँ, मैं खाली हूँ।","हाँ, मी खाली छौं।","Haan, mi khaali chaun.","Yes, I am free."
+क्या तुम व्यस्त हो?,क्या तुम व्यस्त छा?,Kya tum vyast chaa?,Are you busy?
+"हाँ, मैं व्यस्त हूँ।","हाँ, मी व्यस्त छौं।","Haan, mi vyast chaun.","Yes, I am busy."
+मुझे यह पसंद है।,मि तैं यु पसंद च।,Mi tain yu pasand ch.,I like this.
+मुझे यह पसंद नहीं है।,मि तैं यु पसंद नी च।,Mi tain yu pasand ni ch.,I don't like this.
+क्या तुम ठीक हो?,क्या तुम ठीक छा?,Kya tum theek chaa?,Are you okay?
+"हाँ, मैं ठीक हूँ।","हाँ, मी ठीक छौं।","Haan, mi theek chaun.","Yes, I am okay."
+क्या हुआ?,क्या हैइ?,Kya haii?,What happened?
+कुछ नहीं हुआ।,कछु नी हैइ।,Kachu ni haii.,Nothing happened.
+मुझे पता है।,मि तैं जाणदू।,Mi tain jaandu.,I know.
+मुझे नहीं पता।,मि तैं कुजाणी।,Mi tain kujani.,I don't know.
+तुम क्यों हँस रहे हो?,तुम किलै हंसणू छा?,Tum kilai hansanu chaa?,Why are you laughing?
+मैं खुश हूँ इसलिए हँस रहा हूँ।,मी खुश छौं युं कारण हंसणू छौं।,Mi khush chaun yun kaaran hansanu chaun.,"I am happy, so I am laughing."
+तुम क्यों रो रहे हो?,तुम किलै रोणू छा?,Tum kilai ronu chaa?,Why are you crying?
+मैं दुखी हूँ इसलिए रो रहा हूँ।,मी दुखि छौं युं कारण रोणू छौं।,Mi dukhi chaun yun kaaran ronu chaun.,"I am sad, so I am crying."
+क्या तुम तैयार हो?,क्या तुम तैयार छा?,Kya tum taiyar chaa?,Are you ready?
+"हाँ, मैं तैयार हूँ।","हाँ, मी तैयार छौं।","Haan, mi taiyar chaun.","Yes, I am ready."
+"नहीं, मैं तैयार नहीं हूँ।","न, मी तैयार नी छौं।","Na, mi taiyar ni chaun.","No, I am not ready."
+हम कहाँ जा रहे हैं?,आम कख जानू छां?,Aam kakh janu chaan?,Where are we going?
+हम घर जा रहे हैं।,आम घौर जानू छां।,Aam ghor janu chaan.,We are going home.
+हम घूमने जा रहे हैं।,आम घुमणू जानू छां।,Aam ghumanu janu chaan.,We are going for a walk/trip.
+तुम क्या कर रहे हो?,तुम क्या करणू छा?,Tum kya karanu chaa?,What are you doing?
+मैं कुछ नहीं कर रहा हूँ।,मी कछु नी करणू छौं।,Mi kachu ni karanu chaun.,I am doing nothing.
+यह मेरा है।,यु मेरु च।,Yu meru ch.,This is mine.
+यह तुम्हारा है।,यु तेरु च।,Yu teru ch.,This is yours.
+यह उसका है।,यु तेकु च।,Yu teku ch.,This is his/hers.
+यह हमारा है।,यु हमारु च।,Yu hamaru ch.,This is ours.
+यह उनका है।,यु उनकु च।,Yu unku ch.,This is theirs.
+क्या तुम मुझसे बात कर सकते हो?,क्या तुम म्यार दगड़ी बात करि सकदा?,Kya tum myar dagdi baat kari sakda?,Can you talk to me?
+"हाँ, मैं कर सकता हूँ।","हाँ, मी करि सकदू छौं।","Haan, mi kari sakdu chaun.","Yes, I can."
+"नहीं, मैं नहीं कर सकता।","न, मी नी करि सकदू।","Na, mi ni kari sakdu.","No, I cannot."
+मुझे सोना है।,मि तैं सुतणु च।,Mi tain sutanun ch.,I want to sleep.
+मुझे उठना है।,मि तैं उठणु च।,Mi tain uthanu ch.,I want to wake up.
+मुझे नहाना है।,मि तैं न्हौणु च।,Mi tain nhaunu ch.,I want to bathe.
+मुझे पूजा करनी है।,मि तैं पूजा करणी च।,Mi tain pooja karni ch.,I want to worship.
+मुझे पढ़ाई करनी है।,मि तैं पढ़ाई करणी च।,Mi tain padhai karni ch.,I want to study.
+मुझे खेलना है।,मि तैं खेलणु च।,Mi tain khelanu ch.,I want to play.
+मुझे गाना है।,मि तैं गाणु च।,Mi tain gaanu ch.,I want to sing.
+मुझे नाचना है।,मि तैं नाचणु च।,Mi tain nachanu ch.,I want to dance.
+मुझे जाना है।,मि तैं जाणु च।,Mi tain janu ch.,I have to go.
+मुझे आना है।,मि तैं औणु च।,Mi tain aun nu ch.,I have to come.
+क्या समय हुआ है?,क्या टाइम होलु च?,Kya time holu ch?,What is the time?
+[संख्या] बजे हैं।,[संख्या] बजी छन।,[sankhya] baji chhan.,It is [number] o'clock.
+सुबह के [संख्या] बजे हैं।,सबेरे का [संख्या] बजी छन।,Sabere ka [sankhya] baji chhan.,It is [number] o'clock in the morning.
+शाम के [संख्या] बजे हैं।,सांझ का [संख्या] बजी छन।,Saanjh ka [sankhya] baji chhan.,It is [number] o'clock in the evening.
+यह एक अच्छा दिन है।,यु एक भलू दिन च।,Yu ek bhlu din ch.,This is a good day.
+यह एक बुरा दिन है।,यु एक खराब दिन च।,Yu ek kharab din ch.,This is a bad day.
+मुझे खुशी है।,मि तैं खुशी च।,Mi tain khushi ch.,I am happy.
+मुझे दुख है।,मि तैं दुख च।,Mi tain dukh ch.,I am sad.
+यह बहुत अच्छा हुआ।,यु ब्योली भलू हैइ।,Yu byoli bhlu haii.,This happened very well.
+सब ठीक हो जाएगा।,सब ठीक होलु।,Sab theek holu.,Everything will be fine.
